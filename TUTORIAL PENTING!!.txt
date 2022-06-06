@@ -1,0 +1,22 @@
+CARA MASUK HALAMAN ADMIN
+
+1. Silahkan buka browser anda, dan kunjung URL berikut: http://localhost/UAS_HOTEL
+2. Klik Menu Login untuk login admin.
+3. Masukkan username dan password. Bisa memakai username dan password "restika"
+   Atau bisa creat account terlebih dahulu. 
+4. Setelah login berhasil akan diarahkan ke dashboard admin.
+5. Jika ingin logout klik pada button yang ada diatas.
+
+
+CARA MASUK HALAMAN USER
+
+1. Silahkan buka browser anda, dan kunjung URL berikut: http://localhost/UAS_HOTEL
+2. Klik ikon kecil anak panah ke kanan.
+3. Masukkan username dan password. Bisa memakai 
+	username = restika
+	password = 123
+  Belum buat creat account untuk pengunjung baru karena fokus backend.
+4. Setelah login berhasil akan diarahkan ke menu pengunjung.
+5. Jika ingin booking pilih menu booking lalu isi form.
+6. Jika ingin edit data ke menu profil pilih setting.
+7. Jika ingin logout ke menu profil pilih logout.
